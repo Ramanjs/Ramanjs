@@ -4,6 +4,7 @@
 - 📫 You can reach me at raman.s2662@gmail.com
 
 [![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanjs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
