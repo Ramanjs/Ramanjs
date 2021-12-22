@@ -4,12 +4,12 @@
 - 📫 You can reach me at raman.s2662@gmail.com
 ---
 
-[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanjs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanjs&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanjs&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 Toolbox
-<img src='https://github.com/devicons/devicon/tree/master/icons/bash/bash-original.svg'>
+<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'>
 
 <!---
 Ramanjs/Ramanjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
