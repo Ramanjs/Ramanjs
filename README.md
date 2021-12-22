@@ -9,7 +9,7 @@
 
 ---
 Toolbox
-<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'>
+<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width="50" height="50">
 
 <!---
 Ramanjs/Ramanjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
