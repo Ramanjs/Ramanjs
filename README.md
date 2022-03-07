@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Raman
-- 👀 I’m interested in Full Stack Web Development and Competitive Programming
-- 🌱 I’m currently learning React and Dynamic Programming
-- 📫 You can reach me at raman.s2662@gmail.com
+Hi, I'm Raman.
+
+Currently experimenting with web development.
+
+You can reach me at ramanjeet21085@iiitd.ac.in.
 
 ---
 
