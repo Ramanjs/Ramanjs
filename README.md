@@ -2,8 +2,6 @@ Hi, I'm Raman.
 
 Currently experimenting with web development.
 
-You can reach me at ramanjeet21085@iiitd.ac.in.
-
 ---
 
 Toolbox
